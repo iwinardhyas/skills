@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Internal order-shipping API",
   "dependencies": {
-    "axios": "0.21.0",
+    "axios": "0.34.0",
     "express": "4.17.1",
     "stream-throttle": "0.1.3"
   },
